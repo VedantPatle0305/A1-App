@@ -63,7 +63,7 @@
                     }
                     .ignoresSafeArea()
                 }
-    //            .navigationBarHidden(true) // Hide default nav bar
+    //            .navigationBarHidden(true)
             }
             .task {
                 await vm.fetchAllUsers()
